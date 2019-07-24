@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+*{
+	padding: 0px;
+	margin: 0px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+	
+}
+body{
+	-webkit-font-smoothing: subpixel-antialiased;
+
+	
+}
+
+img {
+	height: 100px;
+}
+#ctw img {
+	height: 350px;
+	padding-top: 10px;
+	width:1140px;
+
+}
+
+.menu{
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+	font-family: 'Questrial',sans-serif;
+	background-color: #333;
+	font-weight: bold;
+	padding: 15px;
+
+	}
+div h3 a{
+	font-family: 'Lobster';
+	color: #7EC5DC;
+}	
+.menu div a{
+		color: #fff;
+		text-decoration: none;
+		font-family: sans-serif;
+}
+.menu div a:hover{
+	text-decoration: none;
+	color:#2E90C9;
+	transition: 0.5s;
+}
+
+.menu-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	width:100%;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+	opacity: 0.9;
+	background:#333;
+
+	
+}
+#color{
+	background: #FFF4D0;
+	color: #000;
+	text-align: center;
+	font-family: 'Lobster';
+}
+#alin{
+	
+	background: #CDEAFF;
+	text-align: center;
+
+}
+#alit{
+	text-align: center;
+}
+#tou{
+		font-weight: bold;
+	font-size: 30px;
+	border: 1px solid #665E5E;
+}
+#ten{
+	text-align: center;
+}
+#ter{
+	text-align: center;
+	font-family: 'Lobster';
+}
+#noso{
+	background: #fff;
+	height: 600px;
+	border-radius: 5px;
+	border: 1px solid #000;
+	font-family: 'Lobster';
+	font-size: 30px;
+}
+
+#pi{
+	font-family: 'Lobster';
+}
+#pi:hover{
+	color:#1768EE;
+	transition: 0.5s;
+}
+#tg{
+	font-size:18px;
+}
+.pie{
+	text-align: center;
+}
+#main-footer{
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+span{
+	font-size: 18px;
+	font-weight: bold;
+}
+#rgh{
+	border: 1px solid #000;
+}
+#rfv{
+	text-align: center;
+}
